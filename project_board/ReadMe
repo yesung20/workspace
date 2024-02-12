@@ -1,4 +1,1 @@
-BoardApplication - 게시판 애플리케이션
-Article - 게시물 엔티티
-BulletinBoard - 게시판
------ 기본적인 CRUD만 적용한 상태. 곧 댓글 기능을 추가할 예정
+project_1 - 기본적인 CRUD만 적용한 상태. 게시글을 다룰 수 있다.
